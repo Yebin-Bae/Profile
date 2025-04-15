@@ -1,14 +1,21 @@
-## Hi there 👋
+## Hi there 👋, I'm Yebin 안녕하세요! 배예빈 입니다
+Welcome to my very first Github repository!
 
-<!--
-**Yebin-Bae/Yebin-Bae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- Marketing & Business Analytics major (Bcom) at University of Auckland
+- Fresh graduate based in New Zealand
+- Dreaming of becoming a Business Analyst
+- PACE over Perfection!
+- Currently lookinf for a graduate, entry level roles in Auckland
 
-Here are some ideas to get you started:
+## What I'm Learning
+- SQL
+- Python
+- Tablea for data viz
 
-- 🔭 I’m currently working on developing sql skills
-- 🌱 I’m currently looking for a graduate jobs in Auckland 
-- 💬 Ask me about anything
-- 📫 How to reach me: ...
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: 
--->
+## 📫 How to reach me
+www.linkedin.com/in/yebin-bae-3ab4b7219
+
+## Fun Facts
+- I'm originally from Korea, of course South Korea
+- My Fav colour is Purple
