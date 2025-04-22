@@ -5,7 +5,7 @@ Welcome to my very first Github repository!
 - Marketing & Business Analytics major (Bcom) at University of Auckland
 - Fresh graduate based in New Zealand
 - Dreaming of becoming a Business Analyst
-- PACE over Perfection!
+- Consistency over Perfection!
 - Currently lookinf for a graduate, entry level roles in Auckland
 
 ## What I'm Learning
