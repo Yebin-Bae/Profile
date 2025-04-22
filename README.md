@@ -6,7 +6,7 @@ Welcome to my very first Github repository!
 - Fresh graduate based in New Zealand
 - Dreaming of becoming a Business Analyst
 - Consistency over Perfection!
-- Currently lookinf for a graduate, entry level roles in Auckland
+- Currently looking for a graduate, entry level roles in Auckland
 
 ## What I'm Learning
 - SQL
