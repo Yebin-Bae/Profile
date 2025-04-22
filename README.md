@@ -11,7 +11,7 @@ Welcome to my very first Github repository!
 ## What I'm Learning
 - SQL
 - Python
-- Tablea for data viz
+- Tableau&PowerBi for data viz
 
 ## 📫 How to reach me
 www.linkedin.com/in/yebin-bae-3ab4b7219
